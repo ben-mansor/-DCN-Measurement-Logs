@@ -1,0 +1,7 @@
+[2026-09-12T19:31:32] RUN_START run_id=SEC_mlmanip_030
+[2026-09-12T19:31:32] PARAM attack_type=ml_manipulation
+[2026-09-12T19:31:32] METRIC duration_s=60
+[2026-09-12T19:31:32] METRIC success=False
+[2026-09-12T19:31:32] METRIC feature_perturbation_pct=26.86
+[2026-09-12T19:31:32] METRIC performance_degradation_pct=6.84
+[2026-09-12T19:31:32] RUN_END status=OK
